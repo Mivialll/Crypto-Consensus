@@ -1,6 +1,6 @@
 # Crypto Consensus
 
-This application sweeps sub-reddits for user comments on different types of cryptocurrency and returs a "score" using Microsoft Azure Text Analytics API. The sentimental analysis determines the market popularity of the cryptocurrency.
+This application sweeps sub-reddits for user comments on different types of cryptocurrency and returns a "score" using Microsoft Azure Text Analytics API. The sentimental analysis determines the market popularity of the cryptocurrency.
 
 ## Getting Started
 
